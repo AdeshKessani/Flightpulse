@@ -7,7 +7,7 @@ End-to-end project for flight status / delay intelligence with:
 - **AI** — notebooks, trained model, and data (tracked with **Git LFS**)
 
 > **Large files**  
-> This repo uses **Git LFS** for big artifacts (e.g., `.csv`, `.zip`, `.pkl`, `.xlsx`).  
+> This repo uses **Git LFS** for big artifacts (e.g., `.csv`, `.zip`, `.pkl`).  
 
 ---
 
